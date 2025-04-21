@@ -1,6 +1,6 @@
 /******************************************************************************
-
 TopoSort-DFS
+If there is an edge from vertice U to V , then U should appear before V in topological sort.
 TC - O(N+2*E)
 SC - O(N)
 *******************************************************************************/
